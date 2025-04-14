@@ -1,2 +1,2 @@
-Flask==<version>
+Flask==2.3.3  # Replace with the desired version or use the latest stable version
 
